@@ -15,6 +15,14 @@ Designed with production best practices, strict environment variable isolation, 
 
 ---
 
+## Demo
+
+<img width="1589" height="822" alt="Langchain_Groq_Intergration" src="https://github.com/user-attachments/assets/be8ab141-7550-48a0-9a55-ac78bc8fe4d8" />
+<img width="1588" height="819" alt="Langchain_Gemini_Intergration" src="https://github.com/user-attachments/assets/83219557-4dd8-4c49-beff-d0f7842dd9ac" />
+<img width="1589" height="818" alt="Langchain_OpenAI_Intergration" src="https://github.com/user-attachments/assets/9687fac5-1a8b-4eee-a1d3-a99458cd4b57" />
+
+---
+
 ## 🛠️ Tech Stack & Dependencies
 
 - **Language:** Python 3.10+
